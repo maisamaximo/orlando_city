@@ -1,0 +1,81 @@
+header {
+    width: 100%;
+    height: 25vh;
+    background: #5e299a;
+    position: relative;
+}
+
+header .container {
+
+}
+
+header .header-black {
+    background-color: #333;
+    height: 6vh;
+}
+
+header .header-black li {
+    background-image: url("../assets/times.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 4px;
+}
+
+
+
+header .header-black li a {
+    width: 32px;
+    height: 32px;
+    display: block;
+}
+
+header #logotipo {
+    position: absolute;
+    top: 13px;
+}
+
+
+/* TIMES */
+header .header-black li.club-01 {
+    background-position: 0px 0px;
+}
+
+header .header-black li.club-02 {
+    background-position: -48px 0px;
+}
+
+header .header-black li.club-03 {
+    background-position: -96px 0px;
+}
+
+header .header-black li.club-04 {
+    background-position: -140px 0px;
+}
+
+header .header-black li.club-05 {
+    background-position: -192px 0px;
+}
+
+header .header-black li.club-06 {
+    background-position: -240px 0px;
+}
+
+header .header-black li.club-07 {
+    background-position: -288px 0px;
+}
+
+header .header-black li.club-08 {
+    background-position: -336px 0px;
+}
+
+header .header-black li.club-09 {
+    background-position: -384px 0px;
+}
+
+header .header-black li.club-10 {
+    background-position: -432px 0px;
+}
+
+header .header-black li.club-11 {
+    background-position: -480px 0px;
+}
